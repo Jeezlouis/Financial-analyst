@@ -1,0 +1,19 @@
+[project]
+name = "financialanalyst"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
+    "nbformat>=5.10.4",
+    "numpy>=2.2.6",
+    "pandas>=2.2.3",
+    "pandas-ta>=0.3.14b0",
+    "plotly>=6.1.1",
+    "seaborn>=0.13.2",
+    "streamlit>=1.45.1",
+    "ta-lib>=0.6.3",
+    "yfinance>=0.2.61",
+]
